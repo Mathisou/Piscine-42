@@ -1,0 +1,25 @@
+int main()
+{
+	int i;
+	int *********nbr;
+	int ********n1;
+	int *******n2;
+	int ******n3;
+	int *****n4;
+	int ****n5;
+	int ***n6;
+	int **n7;
+	int *n8;
+
+	i = 5;
+	n8 = &i;
+	n7 = &n8;
+	n6 = &n7;
+	n5 = &n6;
+	n4 = &n5;
+	n3 = &n4;
+	n2 = &n3;
+	n1 = &n2;
+	nbr = &n1;
+	ft_ultimate_ft(nbr);
+}

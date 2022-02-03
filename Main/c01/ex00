@@ -1,0 +1,8 @@
+int main()
+{
+	int *nbr;
+	int n = 5;
+
+	nbr = &n;
+	ft_ft(nbr);
+}

@@ -1,0 +1,15 @@
+	write(1, a, 1);
+	write(1, "\n", 1);
+	write(1, b, 1);
+}
+
+int main()
+{
+	int a, b;
+	int *c, *d;
+	a = 48;
+	b = 56;
+	c = &a;
+	d = &b;
+	ft_swap(c, d);
+}
