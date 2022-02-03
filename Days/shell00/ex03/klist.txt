@@ -1,0 +1,5 @@
+Credentials cache: API:D259C74B-9501-4ED0-90E7-6432E9BDFEB3
+        Principal: maroly@42.FR
+
+  Issued                Expires               Principal
+Aug  2 11:02:52 2021  Aug  9 11:02:52 2021  krbtgt/42.FR@42.FR
